@@ -1,0 +1,7 @@
+django==2.2
+djangorestframework==3.11.0
+Markdown==3.2.1
+django-filter==2.2.0
+django-widget-tweaks==1.4.5
+httpie==2.2
+django-rest-auth==0.9.5
